@@ -2,7 +2,6 @@
   --primary: #8B4513;
   --secondary: #DEB887;
 }
-
 * {
   margin: 0;
   padding: 0;
@@ -80,7 +79,7 @@ header {
 
 .nav-links {
   display: flex;
-  gap: 2rem;
+  gap: 3.5rem;
 }
 
 .nav-links a {
